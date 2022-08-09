@@ -1,0 +1,41 @@
+.bottombar {
+  flex: 20;
+}
+
+.bottomnav {
+  display: flex;
+  height: 75px;
+  position: fixed;
+  bottom: 30px;
+  width: 90vw;
+  justify-content: space-between;
+  background-color: #000000;
+  border-radius: 24px;
+}
+.bn-tab {
+  width: 28px;
+  height: 100%;
+  display: flex;
+  margin: 0px 30px 0px 30px;
+}
+.iconbtn {
+  background-color: #000000;
+  border-color: #000000;
+  border-radius: 24px;
+}
+.iconbtn :hover {
+  border-bottom: 2px solid #e7e049;
+}
+
+@media all and (max-width: 500px) {
+  .bottomnav {
+    display: flex;
+    height: 60px;
+    position: fixed;
+    bottom: 20px;
+    width: 90vw;
+    justify-content: space-between;
+    background-color: #000000;
+    border-radius: 24px;
+  }
+}

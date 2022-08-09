@@ -1,0 +1,39 @@
+[
+    {   
+        "id":1,
+        "name":"Sarah",
+        "message": "hey Ive completed design",
+         "avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzwyqpjAmQf9cJZJYedogG6ivGM_FAyiIOwQ&usqp=CAU"
+    },
+    {   
+        "id":2,
+        "name":"Michael",
+        "message": "Get those to me immediately",
+         "avatar":"https://storage.jewheart.com/content/users/avatars/3746/avatar_3746_500.jpg?1558628223"
+    },
+    {   
+        "id":3,
+        "name":"James",
+        "message": "Sent it over sometime back",
+         "avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxsuBeDgoCK2KqapHt3RF3WaoOuCWq8RmYAQ&usqp=CAU"
+    },
+    {   
+        "id":4,
+        "name":"Jessica",
+        "message": "hey I wanted to discuss now",
+         "avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkO_VNXww8_vJkdogl0m1lvderyu_k-6jk2Q&usqp=CAU"
+    },
+    {   
+        "id":5,
+        "name":"John",
+        "message": "send it over to me again",
+         "avatar":"https://storage.jewheart.com/content/users/avatars/3746/avatar_3746_500.jpg?1558628223"
+    },
+    {   
+        "id":6,
+        "name":"Smith",
+        "message": "hey Ive completed the task",
+         "avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6upkc6jjdNBwfdiHyTHtOv0M4C2YHf4nmCQ&usqp=CAU"
+    }
+    
+]
